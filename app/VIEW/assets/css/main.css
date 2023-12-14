@@ -1,0 +1,93 @@
+.text-custom {
+  color: #32a4da;
+}
+
+#section-form {
+  padding: 40px;
+}
+
+.container {
+  display: flex;
+  max-width: 100%;
+}
+
+.form {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.form-one {
+  width: 100%;
+}
+
+.form-control {
+  width: 100%;
+}
+
+.form-group {
+  padding: 30px;
+}
+
+.container-checkbox {
+  padding-left: 30px;
+}
+
+.checkbox {
+  display: flex;
+  align-items: center;
+  padding-bottom: 10px;
+}
+
+.btn-div {
+  display: flex;
+  justify-content: end;
+}
+
+#contacts-section {
+  padding: 40px;
+  border-top: 1px solid black;
+}
+
+.container-contacts {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.contact-infos {
+  display: flex;
+  width: 90%;
+
+  align-items: center;
+  justify-content: space-around;
+  background-color: rgb(8, 140, 212);
+  color: white;
+  font-size: 1.2rem;
+}
+
+.contact-infos p {
+  display: flex;
+  align-items: center;
+}
+
+.contact-items {
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  align-items: center;
+  width: 90%;
+}
+
+.contact {
+  border: 1px solid black;
+  display: flex;
+  height: auto;
+  width: 100%;
+  justify-content: space-around;
+}
+
+.height {
+  height: 100vh;
+}
